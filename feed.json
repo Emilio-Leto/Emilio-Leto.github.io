@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Emilio Leto",
     "description": "",
-    "home_page_url": "https://github.com/Emilio-Leto/Emilio-Leto.github.io",
-    "feed_url": "https://github.com/Emilio-Leto/Emilio-Leto.github.io/feed.json",
+    "home_page_url": "https://emilio-leto.gitlab.io/Emilio-Leto",
+    "feed_url": "https://emilio-leto.gitlab.io/Emilio-Leto/feed.json",
     "user_comment": "",
     "author": {
         "name": "Emilio Leto"
