@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://emilio-leto.gitlab.io/Emilio-Leto/sitemap.xml
+Sitemap: https://Emilio-Leto.github.io/Portfolio/sitemap.xml

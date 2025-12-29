@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://Emilio-Leto.gitlab.io/Emilio-Leto/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://Emilio-Leto.github.io/Portfolio/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://Emilio-Leto.gitlab.io/Emilio-Leto/</loc>
+<loc>https://Emilio-Leto.github.io/Portfolio/</loc>
 </url>
 <url>
-<loc>https://Emilio-Leto.gitlab.io/Emilio-Leto/gis-portfolio/</loc>
+<loc>https://Emilio-Leto.github.io/Portfolio/gis-portfolio.html</loc>
 <lastmod>2025-12-29T16:21:36+02:00</lastmod>
 <image:image>
-<image:loc>https://Emilio-Leto.gitlab.io/Emilio-Leto/media/posts/5/gallery/Construct_Layout_Colocated-thumbnail.png</image:loc>
+<image:loc>https://Emilio-Leto.github.io/Portfolio/media/posts/5/gallery/Construct_Layout_Colocated-thumbnail.png</image:loc>
 <image:title><![CDATA[Map 1 - Noise Complaints Colocated with Road Construction Sites]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://Emilio-Leto.gitlab.io/Emilio-Leto/media/posts/5/gallery/Bar_Layout_Colocate-thumbnail.png</image:loc>
+<image:loc>https://Emilio-Leto.github.io/Portfolio/media/posts/5/gallery/Bar_Layout_Colocate-thumbnail.png</image:loc>
 <image:title><![CDATA[Map 2 - Noise Complaints Colocated with Bars &amp; Venues]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://Emilio-Leto.gitlab.io/Emilio-Leto/media/posts/5/gallery/Flowchart-2-thumbnail.png</image:loc>
+<image:loc>https://Emilio-Leto.github.io/Portfolio/media/posts/5/gallery/Flowchart-2-thumbnail.png</image:loc>
 <image:title><![CDATA[Cartographic Model of Maps 1 and 2]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://Emilio-Leto.gitlab.io/Emilio-Leto/media/posts/5/gallery/Summary-of-Data-Sources-thumbnail.png</image:loc>
+<image:loc>https://Emilio-Leto.github.io/Portfolio/media/posts/5/gallery/Summary-of-Data-Sources-thumbnail.png</image:loc>
 <image:title><![CDATA[Summary of Data Sources and Limitations]]></image:title>
 </image:image>
 </url>
