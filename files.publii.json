@@ -1,0 +1,222 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "d7dbdc449300b63c5620e5a53f574385"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "56cf2129ad0bc0b59df51905ec6e2d75"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "b09e72b2ca1a38c969d44da51bb22509"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/emilio-leto",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/emilio-leto/index.html",
+        "type": "file",
+        "md5": "f88fc83a6c2e5a5445fd1f1c7e448d97"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "2f071008b7b4beb30d67e413623dfaa1"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "ad27a657c6496a15a0d91c47f0aece81"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "0ca3eb06764de71baeb61f37f34ee469"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/plugins",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/plugins/coreLightboxGallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/plugins/coreLightboxGallery/photoswipe-lightbox.esm.min.js",
+        "type": "file",
+        "md5": "b505ee081119c5be142e0dbac4762f99"
+    },
+    {
+        "path": "/media/plugins/coreLightboxGallery/photoswipe-lightbox.umd.min.js",
+        "type": "file",
+        "md5": "96c2a65aa83c62a874ddcd85cbdf69fb"
+    },
+    {
+        "path": "/media/plugins/coreLightboxGallery/photoswipe.esm.min.js",
+        "type": "file",
+        "md5": "97ca880233a37aa88ecd4e06b53c45bd"
+    },
+    {
+        "path": "/media/plugins/coreLightboxGallery/photoswipe.min.css",
+        "type": "file",
+        "md5": "bbfcfcfc7aff4620107555b1d668227d"
+    },
+    {
+        "path": "/media/plugins/coreLightboxGallery/photoswipe.umd.min.js",
+        "type": "file",
+        "md5": "80574f1ec4486c3613d668756ad7e600"
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/5/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/gallery/Bar_Layout_Colocate-thumbnail.png",
+        "type": "file",
+        "md5": "3749469ef65e097c4fa6ade9d9088a00"
+    },
+    {
+        "path": "/media/posts/5/gallery/Bar_Layout_Colocate.png",
+        "type": "file",
+        "md5": "20163f195a781021627ac2115a0011d7"
+    },
+    {
+        "path": "/media/posts/5/gallery/Construct_Layout_Colocated-thumbnail.png",
+        "type": "file",
+        "md5": "66a77d39096e35e759dfa1117d28de46"
+    },
+    {
+        "path": "/media/posts/5/gallery/Construct_Layout_Colocated.png",
+        "type": "file",
+        "md5": "f903ee6bfbf639d919005bc89a4c73e8"
+    },
+    {
+        "path": "/media/posts/5/gallery/Flowchart-2-thumbnail.png",
+        "type": "file",
+        "md5": "608c249a5d95a549ce2ca508fa5143e0"
+    },
+    {
+        "path": "/media/posts/5/gallery/Flowchart-2.png",
+        "type": "file",
+        "md5": "bafc94b05c9cfa69acaba9bad79bbbc9"
+    },
+    {
+        "path": "/media/posts/5/gallery/Summary-of-Data-Sources-thumbnail.png",
+        "type": "file",
+        "md5": "fb4d3dd8c60072ce0de33cb13d93f2fb"
+    },
+    {
+        "path": "/media/posts/5/gallery/Summary-of-Data-Sources.png",
+        "type": "file",
+        "md5": "c458c42faf04e7167290ce86d7f714b0"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "5d789405c745cf96c8cbdeeb33eb69c4"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "1a28280b4d7f76157b82ec05551edee0"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "e921f1337c6a6a31891f8c0996ea3f1c"
+    }
+]
