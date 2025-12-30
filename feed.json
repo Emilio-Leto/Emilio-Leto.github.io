@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Emilio Leto",
+    "description": "",
+    "home_page_url": "https://emilio-leto.github.io",
+    "feed_url": "https://emilio-leto.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Emilio Leto"
+    },
+    "items": [
+        {
+            "id": "https://emilio-leto.github.io/testing.html",
+            "url": "https://emilio-leto.github.io/testing.html",
+            "title": "Testing",
+            "content_html": "<p>Testing</p>",
+            "author": {
+                "name": "Emilio Leto"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-12-30T19:35:08+02:00",
+            "date_modified": "2025-12-30T19:35:08+02:00"
+        }
+    ]
+}
