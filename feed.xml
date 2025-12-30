@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Emilio Leto</title>
+    <link href="https://emilio-leto.github.io/feed.xml" rel="self" />
+    <link href="https://emilio-leto.github.io" />
+    <updated>2025-12-30T19:35:08+02:00</updated>
+    <author>
+        <name>Emilio Leto</name>
+    </author>
+    <id>https://emilio-leto.github.io</id>
+
+    <entry>
+        <title>Testing</title>
+        <author>
+            <name>Emilio Leto</name>
+        </author>
+        <link href="https://emilio-leto.github.io/testing.html"/>
+        <id>https://emilio-leto.github.io/testing.html</id>
+
+        <updated>2025-12-30T19:35:08+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <p>Testing</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
